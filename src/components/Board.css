@@ -1,0 +1,14 @@
+.board {
+    background-color: rgb(227, 227, 227);
+    flex: 1;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.board .col {
+    flex: 1;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+}
